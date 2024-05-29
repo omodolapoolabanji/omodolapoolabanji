@@ -7,7 +7,7 @@ Computer Science Undergraduate
 Hi, I am Omodolapo Olabanji, a Computer Science undergraduate at Indiana University. I am an aspiring software engineer with an affinity for AI/ML concepts.
 
 * 🌍  I'm based in Indiana
-* 🖥️  See my portfolio at [My portfolio](https://omodolapoolabanji.github.io/Portfolio-Website/)
+* 🖥️  See my portfolio at [My portfolio](https://omodolapoolabanji.github.io/Portfolio/)
 * ✉️  You can contact me at [omodolapoolabanji@gmail.com](mailto:omodolapoolabanji@gmail.com)
 * 🚀  I'm currently working on [...]
 * 🧠  I'm learning OpenCV for object recognition, LLMs, and Deep Learning in python.
