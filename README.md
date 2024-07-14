@@ -10,7 +10,7 @@ Hi, I am Omodolapo Olabanji, a Computer Science undergraduate at Indiana Univers
 * 🖥️  See my portfolio at [My portfolio](https://omodolapoolabanji.github.io/Portfolio/)
 * ✉️  You can contact me at [omodolapoolabanji@gmail.com](mailto:omodolapoolabanji@gmail.com)
 * 🚀  I'm currently working on [...]
-* 🧠  I'm learning OpenCV for object recognition, LLMs, and Deep Learning in python.
+
 
 ### Skills
 
